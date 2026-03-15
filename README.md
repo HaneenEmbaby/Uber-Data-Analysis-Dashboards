@@ -77,11 +77,11 @@ The project was completed through the following steps:
 
 ![Dashboard Page 1](images/Cover.png)
 ![Dashboard Page 1](images/Overview.png)
-![Dashboard Page 1](images/Peak_Demand.png)
-![Dashboard Page 1](images/Cancelled_Rides.png)
+![Dashboard Page 1](images/Peak%20Demand.png)
+![Dashboard Page 1](images/Cancelled%20Rides.png)
 ![Dashboard Page 1](images/Revenue.png)
-![Dashboard Page 1](images/External_Factors.png)
-![Dashboard Page 1](images/Driver_Distribution.png)
+![Dashboard Page 1](images/External%20Factors.png)
+![Dashboard Page 1](images/Driver%20Distribution.png)
 
 
 ---
