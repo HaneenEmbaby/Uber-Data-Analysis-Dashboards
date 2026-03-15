@@ -75,7 +75,7 @@ The project was completed through the following steps:
 
 ## Dashboard Preview
 
-![Dashboard Page 1](images/cover.png)
+![Dashboard Page 1](images/Cover.png)
 ![Dashboard Page 1](images/Overview.png)
 ![Dashboard Page 1](images/Peak_Demand.png)
 ![Dashboard Page 1](images/Cancelled_Rides.png)
