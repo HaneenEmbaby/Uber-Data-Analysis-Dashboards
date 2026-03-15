@@ -79,9 +79,14 @@ Add screenshots of your dashboard here.
 
 Example:
 
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](1.png)
+![Dashboard Page 1](2.png)
+![Dashboard Page 1](3.png)
+![Dashboard Page 1](4.png)
+![Dashboard Page 1](5.png)
+![Dashboard Page 1](6.png)
+![Dashboard Page 1](7.png)
 
-![Dashboard Page 2](images/dashboard_page2.png)
 
 ---
 
