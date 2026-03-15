@@ -75,13 +75,13 @@ The project was completed through the following steps:
 
 ## Dashboard Preview
 
-![Dashboard Page 1](1.png)
-![Dashboard Page 1](2.png)
-![Dashboard Page 1](3.png)
-![Dashboard Page 1](4.png)
-![Dashboard Page 1](5.png)
-![Dashboard Page 1](6.png)
-![Dashboard Page 1](7.png)
+![Dashboard Page 1](images/cover.png)
+![Dashboard Page 1](images/Overview.png)
+![Dashboard Page 1](images/Peak_Demand.png)
+![Dashboard Page 1](images/Cancelled_Rides.png)
+![Dashboard Page 1](images/Revenue.png)
+![Dashboard Page 1](images/External_Factors.png)
+![Dashboard Page 1](images/Driver_Distribution.png)
 
 
 ---
