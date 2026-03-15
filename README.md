@@ -75,10 +75,6 @@ The project was completed through the following steps:
 
 ## Dashboard Preview
 
-Add screenshots of your dashboard here.
-
-Example:
-
 ![Dashboard Page 1](1.png)
 ![Dashboard Page 1](2.png)
 ![Dashboard Page 1](3.png)
@@ -90,6 +86,5 @@ Example:
 
 ---
 
-## Conclusion
 
 This project demonstrates how raw ride data can be transformed into an interactive dashboard that provides valuable operational insights. Using Power BI and DAX, the project highlights trends in ride behavior, cancellations, and driver performance, showcasing the power of data visualization and business intelligence tools.
